@@ -1,0 +1,5 @@
+{
+  "name": "theorygen",
+  "description": "An AI-powered music theory visualizer that generates scales and chords on a virtual piano based on natural language requests.",
+  "requestFramePermissions": []
+}
